@@ -1,0 +1,12 @@
+{
+  "vectorSearchURL_vector": "https://search.arz.ai/picsearch",
+  "vectorSearchURL_imageId": "https://search.arz.ai/picsearch/by_id",
+  "imageServerURL_224": "https://img.arz.ai/224",
+  "imageServerURL_512": "https://img.arz.ai/512",
+  "BackEnd_API": "http://127.0.0.1:7999/",
+  "connectionDB": {
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "root"
+  }
+}
